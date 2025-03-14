@@ -1,0 +1,30 @@
+.form-container {
+    background-color: rgb(64, 64, 102);
+    border: 2px solid gray;
+    border-radius: 10px;
+    padding: 50px;
+    width: 80%;
+    min-width: 300px;
+}
+
+label {
+    margin: 10px auto;
+    color: wheat;
+}
+
+input,
+textarea {
+    width: 60vw;
+    min-width: 200px;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: rgb(78, 110, 110);
+    font-size: 2em;
+}
+
+button:hover {
+    background-color: rgb(81, 182, 182);
+}
